@@ -1,2 +1,2 @@
 # recommender
-Recommender algoritm written implemented in Java.
+Recommender algoritm implemented in Java.
